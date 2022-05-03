@@ -1,0 +1,23 @@
+{
+  "name": "test-spy-practice",
+  "version": "1.0.0",
+  "description": "Write tests for the code in `index.js` without implementing the higher-order functions or altering the code.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garzoku/test-spy-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garzoku/test-spy-practice/issues"
+  },
+  "homepage": "https://github.com/garzoku/test-spy-practice#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
